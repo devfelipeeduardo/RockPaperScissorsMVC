@@ -1,17 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1400" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-1" value="Jogo&lt;div&gt;- jogador1: jogador&lt;/div&gt;&lt;div&gt;+ IniciarJogo()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="470" y="70" width="180" height="100" as="geometry" />
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ml2sPRoJSiK4M_Rv1uHc-1" target="ml2sPRoJSiK4M_Rv1uHc-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-3" value="Jogador&lt;div&gt;- nome: str&lt;/div&gt;&lt;div&gt;- opcao: str&lt;/div&gt;&lt;div&gt;+ escolherOpcao()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="470" y="270" width="180" height="100" as="geometry" />
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ml2sPRoJSiK4M_Rv1uHc-1" target="ml2sPRoJSiK4M_Rv1uHc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-1" value="Jogo&lt;div&gt;- jogador1: jogador&lt;/div&gt;&lt;div&gt;+ IniciarJogo()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-3" value="Jogador&lt;div&gt;- nome: str&lt;/div&gt;&lt;div&gt;- opcao: str&lt;/div&gt;&lt;div&gt;- pontuacao: int&lt;/div&gt;&lt;div&gt;+ escolherOpcao()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ml2sPRoJSiK4M_Rv1uHc-4" value="Opcao&lt;div&gt;- nome: str&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="220" y="270" width="180" height="100" as="geometry" />
+          <mxGeometry y="160" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ml2sPRoJSiK4M_Rv1uHc-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-9" value="Início" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml2sPRoJSiK4M_Rv1uHc-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ml2sPRoJSiK4M_Rv1uHc-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.4347826086957" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-11" value="Jogador 1 venceu?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml2sPRoJSiK4M_Rv1uHc-12" target="ml2sPRoJSiK4M_Rv1uHc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml2sPRoJSiK4M_Rv1uHc-12" value="Recebe Opcao&amp;nbsp;&lt;div&gt;Jogador1 e Jogador 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
