@@ -1,8 +1,39 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model RockPaperScissorsMVC.Models.JogoModel
+
+@{
+    ViewData["Title"] = "Pedra, Papel e Tesoura";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="main" id="main">
+
+    <div class="placar" id="placar">
+        <h1>Placar</h1>
+        <div>
+            <span>Jogador: </span>
+            <span id="pontuacao-jogador">@(Model?.PontuacaoJogador ?? 0)</span>
+        </div>
+        <div>
+            <span>Computador: </span>
+            <span id="pontuacao-computador">@(Model?.PontuacaoComputador ?? 0)</span>
+            </div>
+        </div>
+
+    <div class="computer-structure">Computador</div>
+
+    <div class="choices-on-center">
+
+        <div class="who-won" id="who-won" match-result="@(Model?.Resultado ?? "Escolha uma opção")">@(Model?.Resultado ?? "Escolha uma opção") </div>
+        <div class="choices">
+            <div class="player-choice" id="player-choice"><img class="player-choice-img" id="player-choice-img" data-resposta="@(Model?.OpcaoJogador ?? "Pedra")" src="~/imgs/papel.png"></div>
+            <span> VS </span>
+            <div class="computer-choice" id="computer-choice"><img class="computer-choice-img" id="computer-choice-img" data-resposta="@(Model?.OpcaoComputador ?? "Pedra")" src="~/imgs/pedra.png"></div>
+        </div>
+    </div>
+
+    <form method="post" action="@Url.Action("Jogar", "Jogo")" class="player-buttons">
+        <button type="submit" name="escolhaJogador" value="Pedra" id="rock-button" class="button"><img class="choices-images" src="~/imgs/rock.png"></button>
+        <button type="submit" name="escolhaJogador" value="Papel" id="paper-button" class="button"><img class="choices-images" src="~/imgs/paper.png"></button>
+        <button type="submit" name="escolhaJogador" value="Tesoura" id="scissors-button" class="button"><img class="choices-images" src="~/imgs/scissor.png"></button>
+    </form>
+
 </div>

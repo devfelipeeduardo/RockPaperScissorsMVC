@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\rockpaperscissorsmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\rockpaperscissorsmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\models\\jogadormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\models\\jogadormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\models\\opcaoescolhidamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\models\\opcaoescolhidamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\models\\jogomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\models\\jogomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\wwwroot\\imgs\\scissor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\wwwroot\\imgs\\scissor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\wwwroot\\imgs\\rock.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\wwwroot\\imgs\\rock.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\wwwroot\\imgs\\paper.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\wwwroot\\imgs\\paper.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|c:\\users\\felipe\\source\\repos\\rockpaperscissorsmvc\\rockpaperscissorsmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2B1E829-39AB-4205-AC6A-338E03D1895D}|RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj|solutionrelative:rockpaperscissorsmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +54,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 325,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RockPaperScissorsMVC",
-              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj",
-              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj",
-              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj",
-              "RelativeToolTip": "RockPaperScissorsMVC\\RockPaperScissorsMVC.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-26T21:59:22.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JogoController.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Controllers\\JogoController.cs",
-              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Controllers\\JogoController.cs",
-              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Controllers\\JogoController.cs",
-              "RelativeToolTip": "RockPaperScissorsMVC\\Controllers\\JogoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T22:55:09.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OpcaoEscolhidaModel.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Models\\OpcaoEscolhidaModel.cs",
-              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Models\\OpcaoEscolhidaModel.cs",
-              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Models\\OpcaoEscolhidaModel.cs",
-              "RelativeToolTip": "RockPaperScissorsMVC\\Models\\OpcaoEscolhidaModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T22:41:37.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JogadorModel.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Models\\JogadorModel.cs",
-              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Models\\JogadorModel.cs",
-              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Models\\JogadorModel.cs",
-              "RelativeToolTip": "RockPaperScissorsMVC\\Models\\JogadorModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T22:41:09.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "RockPaperScissorsMVC\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-02T15:48:25.076Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RockPaperScissorsMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T15:38:43.908Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "JogoModel.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Models\\JogoModel.cs",
               "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Models\\JogoModel.cs",
               "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Models\\JogoModel.cs",
               "RelativeToolTip": "RockPaperScissorsMVC\\Models\\JogoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T22:40:16.893Z",
+              "WhenOpened": "2025-03-02T17:57:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RockPaperScissorsMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:28:53.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogoController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Controllers\\JogoController.cs",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Controllers\\JogoController.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Controllers\\JogoController.cs",
+              "RelativeToolTip": "RockPaperScissorsMVC\\Controllers\\JogoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:43:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scissor.png - PNG [512x512, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\imgs\\scissor.png",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\wwwroot\\imgs\\scissor.png",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\imgs\\scissor.png - PNG [512x512, 32 bits, PNG]",
+              "RelativeToolTip": "RockPaperScissorsMVC\\wwwroot\\imgs\\scissor.png - PNG [512x512, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T22:38:17.244Z",
+              "EditorCaption": " - PNG [512x512, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rock.png - PNG [512x512, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\imgs\\rock.png",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\wwwroot\\imgs\\rock.png",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\imgs\\rock.png - PNG [512x512, 32 bits, PNG]",
+              "RelativeToolTip": "RockPaperScissorsMVC\\wwwroot\\imgs\\rock.png - PNG [512x512, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T22:38:16.646Z",
+              "EditorCaption": " - PNG [512x512, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "paper.png - PNG [512x512, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\imgs\\paper.png",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\wwwroot\\imgs\\paper.png",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\imgs\\paper.png - PNG [512x512, 32 bits, PNG]",
+              "RelativeToolTip": "RockPaperScissorsMVC\\wwwroot\\imgs\\paper.png - PNG [512x512, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T22:38:15.991Z",
+              "EditorCaption": " - PNG [512x512, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RockPaperScissorsMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-02T22:38:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\appsettings.json",
+              "RelativeToolTip": "RockPaperScissorsMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T20:46:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RockPaperScissorsMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\RockPaperScissorsMVC\\RockPaperScissorsMVC\\Program.cs",
+              "RelativeToolTip": "RockPaperScissorsMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:47:19.838Z",
               "EditorCaption": ""
             }
           ]

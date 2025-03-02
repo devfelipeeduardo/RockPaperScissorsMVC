@@ -1,22 +1,111 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 html {
-  position: relative;
-  min-height: 100%;
+    height: 100vh;
+    font-family: Montserrat, sans-serif;
 }
 
 body {
-  margin-bottom: 60px;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+*, *::after, *::before {
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+}
+
+.choices-on-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px 10px 0px;
+}
+
+.choices span {
+    font-weight: 1000
+}
+
+.computer-structure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 125px;
+    font-size: 2rem;
+    border-radius: 10px;
+    border: 10px solid black;
+    font-weight: 800;
+}
+
+.who-won {
+    font-size: 2rem;
+}
+
+.choices-images {
+    width: 80px;
+    height: 80px;
+}
+
+.player-choice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.computer-choice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.player-choice-img {
+    width: 80px;
+    height: 80px;
+}
+.computer-choice-img {
+    width: 80px;
+    height: 80px;
+}
+
+
+.placar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 5%;
+    width: 250px;
+    height: 100px;
+    font-size: 1rem;
+    border: 2px solid black;
 }
